@@ -1,0 +1,1 @@
+# Ternary-Classification-technique-based-on-Factorization
