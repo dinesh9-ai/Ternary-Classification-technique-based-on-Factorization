@@ -1,1 +1,1 @@
-# Ternary-Classification-technique-based-on-Factorization
+# Ternary-Classification-technique-based-on-Multiples
